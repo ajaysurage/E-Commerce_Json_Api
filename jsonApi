@@ -1,0 +1,314 @@
+{
+  "brands": [
+    {
+      "id": "1",
+      "brandName": "Apple"
+    },
+    {
+      "id": "2",
+      "brandName": "Sony"
+    },
+    {
+      "id": "3",
+      "brandName": "Samsung"
+    },
+    {
+      "id": "4",
+      "brandName": "Carrier"
+    },
+    {
+      "id": "5",
+      "brandName": "Dell"
+    }
+  ],
+  "categories": [
+    {
+      "id": "1",
+      "categoryName": "Mobile"
+    },
+    {
+      "id": "2",
+      "categoryName": "Electronics"
+    },
+    {
+      "id": "3",
+      "categoryName": "Appliances"
+    }
+  ],
+  "products": [
+    {
+      "id": "1",
+      "productName": "Apple iPhone",
+      "price": 8900,
+      "brandId": 1,
+      "categoryId": 1,
+      "rating": 5,
+      "imageUrl": "https://fdn2.gsmarena.com/vv/pics/apple/apple-iphone-14-pro-max-1.jpg"
+    },
+    {
+      "id": "2",
+      "productName": "Apple iPad Pro",
+      "price": 12400,
+      "brandId": 1,
+      "categoryId": 2,
+      "rating": 5,
+      "imageUrl": "https://cdn.mall.adeptmind.ai/https%3A%2F%2Fmultimedia.bbycastatic.ca%2Fmultimedia%2Fproducts%2F500x500%2Fb00%2Fb0017%2Fb0017114.jpg_large.webp"
+    },
+    {
+      "id": "3",
+      "productName": "Sony Camera",
+      "price": 4500,
+      "brandId": 2,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/517CEyCXIHL._AC_UF1000,1000_QL80_.jpg "
+    },
+    {
+      "id": "4",
+      "productName": "Sony 5.1 Home Theatre",
+      "price": 4500,
+      "brandId": 2,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/31vEBOAtqiL.jpg "
+    },
+    {
+      "id": "5",
+      "productName": "Carrier 2 Ton Air Conditioner",
+      "price": 7780,
+      "brandId": 4,
+      "categoryId": 3,
+      "rating": 3,
+      "imageUrl": "https://m.media-amazon.com/images/I/71SaocoOpiL._AC_UF1000,1000_QL80_.jpg "
+    },
+    {
+      "id": "6",
+      "productName": "Dell Monitor",
+      "price": 880,
+      "brandId": 5,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/815dWXPSNEL._AC_UF1000,1000_QL80_.jpg "
+    },
+    {
+      "id": "7",
+      "productName": "Samsung Galaxy S21",
+      "price": 1099,
+      "brandId": 3,
+      "categoryId": 1,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61qaUS3UgBL._AC_UF1000,1000_QL80_.jpg "
+    },
+    {
+      "id": "8",
+      "productName": "Sony Headphones",
+      "price": 399,
+      "brandId": 2,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": " https://www.target.com.au/medias/static_content/product/images/large/23/20/A1542320.jpg?impolicy=product_portrait"
+    },
+    {
+      "id": "9",
+      "productName": "Carrier Refrigerator",
+      "price": 1899,
+      "brandId": 4,
+      "categoryId": 3,
+      "rating": 3,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS-YS9oL4DjCzJ8uS37p20bqv5sN0RgI-yea8mpLsjgoaq6yC1yEuOKP3NjM81-X3pbafA&usqp=CAU  "
+    },
+    {
+      "id": "10",
+      "productName": "Dell Laptop",
+      "price": 1399,
+      "brandId": 5,
+      "categoryId": 2,
+      "rating": 5,
+      "imageUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQgTH-cw4S1JOH6TXFPnSXco_5z7G8R0vYdQ4vrO8AGPnEStt2g5BVHd6mEZxkSc2OmuEQ&usqp=CAU"
+    },
+    {
+      "id": "11",
+      "productName": "Samsung Smart TV",
+      "price": 2299,
+      "brandId": 3,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": " https://rukminim2.flixcart.com/image/850/1000/xif0q/television/c/z/z/-original-imagmxh3qtf4zb3w.jpeg?q=20&crop=false"
+    },
+    {
+      "id": "12",
+      "productName": "Apple Watch",
+      "price": 699,
+      "brandId": 1,
+      "categoryId": 2,
+      "rating": 5,
+      "imageUrl": "https://store.storeimages.cdn-apple.com/4668/as-images.apple.com/is/ultra-band-unselect-gallery-1-202309_GEO_IN_FMT_WHH?wid=752&hei=720&fmt=p-jpg&qlt=80&.v=1693544568335 "
+    },
+    {
+      "id": "13",
+      "productName": "Sony Playstation 5",
+      "price": 499,
+      "brandId": 2,
+      "categoryId": 2,
+      "rating": 5,
+      "imageUrl": " https://m.media-amazon.com/images/I/51mWHXY8hyL.jpg"
+    },
+    {
+      "id": "14",
+      "productName": "Carrier Window AC",
+      "price": 6999,
+      "brandId": 4,
+      "categoryId": 3,
+      "rating": 3,
+      "imageUrl": "https://rukminim2.flixcart.com/image/850/1000/l0y6qa80/air-conditioner-new/c/7/v/-original-imagcmgwxku38yjf.jpeg?q=90&crop=false "
+    },
+    {
+      "id": "15",
+      "productName": "Dell Keyboard",
+      "price": 49,
+      "brandId": 5,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": " https://images-cdn.ubuy.co.in/63b8a0bd91108f60bc002002-dell-wired-keyboard-and-mouse-km300c.jpg"
+    },
+    {
+      "id": "18",
+      "productName": "Sony Blu-ray Player",
+      "price": 129,
+      "brandId": 2,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/61WY+jSHy7L._AC_UF1000,1000_QL80_.jpg "
+    },
+    {
+      "id": "16",
+      "productName": "Samsung Soundbar",
+      "price": 299,
+      "brandId": 3,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": "https://m.media-amazon.com/images/I/717kB0qg9WL.jpg "
+    },
+    {
+      "id": "17",
+      "productName": "Apple AirPods",
+      "price": 199,
+      "brandId": 1,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": " https://as-images.apple.com/is/MME73?wid=1000&hei=1000&fmt=jpeg&qlt=95&.v=1632861342000"
+    },
+    {
+      "id": "19",
+      "productName": "Carrier Microwave Oven",
+      "price": 299,
+      "brandId": 4,
+      "categoryId": 3,
+      "rating": 3,
+      "imageUrl": "https://m.media-amazon.com/images/I/61Q+4VspuhL._AC_UF1000,1000_QL80_.jpg "
+    },
+    {
+      "id": "20",
+      "productName": "Dell Wireless Mouse",
+      "price": 29,
+      "brandId": 5,
+      "categoryId": 2,
+      "rating": 4,
+      "imageUrl": "https://5.imimg.com/data5/ANDROID/Default/2022/9/NP/TY/JQ/34173197/product-jpeg-500x500.jpg "
+    }
+  ],
+  "users": [
+    {
+      "id": "1",
+      "email": "scott@test.com",
+      "password": "Scott123",
+      "fullName": "Scott",
+      "dateOfBirth": "2000-12-15",
+      "gender": "male",
+      "country": "UK",
+      "receiveNewsLetters": true
+    },
+    {
+      "email": "ajaysurage98@gmail.com",
+      "password": "Ajay@123",
+      "fullName": "Ajay surage",
+      "dateOfBirth": "2024-02-13",
+      "gender": "male",
+      "country": "India",
+      "receiveNewsLetters": true,
+      "id": "hTetM6i"
+    }
+  ],
+  "orders": [
+    {
+      "id": "1",
+      "userId": 1,
+      "productId": 1,
+      "quantity": 2,
+      "isPaymentCompleted": true
+    },
+    {
+      "id": "2",
+      "userId": 1,
+      "productId": 3,
+      "quantity": 12,
+      "isPaymentCompleted": true
+    },
+    {
+      "id": "4",
+      "userId": "hTetM6i",
+      "productId": 3,
+      "quantity": 12,
+      "isPaymentCompleted": false
+    },
+    {
+      "userId": null,
+      "productId": "6",
+      "quantity": 1,
+      "isPaymentCompleted": false,
+      "id": "CSgdLG0"
+    },
+    {
+      "userId": "1",
+      "productId": "1",
+      "quantity": 1,
+      "isPaymentCompleted": true,
+      "id": "HiyHEsU"
+    },
+    {
+      "userId": "1",
+      "productId": "1",
+      "quantity": 1,
+      "isPaymentCompleted": true,
+      "id": "11xPju0"
+    },
+    {
+      "userId": "1",
+      "productId": "1",
+      "quantity": 1,
+      "isPaymentCompleted": true,
+      "id": "LfSUECo"
+    },
+    {
+      "userId": "1",
+      "productId": "1",
+      "quantity": 1,
+      "isPaymentCompleted": false,
+      "id": "zDPEy_W"
+    },
+    {
+      "userId": "1",
+      "productId": "15",
+      "quantity": 1,
+      "isPaymentCompleted": false,
+      "id": "4-mQaiu"
+    },
+    {
+      "userId": "1",
+      "productId": "18",
+      "quantity": 1,
+      "isPaymentCompleted": false,
+      "id": "q7QjMqv"
+    }
+  ]
+}
